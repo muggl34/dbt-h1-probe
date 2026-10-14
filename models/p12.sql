@@ -1,1 +1,0 @@
-/usr/src/dbt-server-shared/credentials.json

@@ -1,1 +1,0 @@
-/usr/src/app/config.py

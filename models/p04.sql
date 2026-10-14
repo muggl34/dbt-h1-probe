@@ -1,1 +1,0 @@
-/usr/src/app/gunicorn.conf.py

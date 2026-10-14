@@ -1,1 +1,0 @@
-/home/restricted/.ssh/id_rsa

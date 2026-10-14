@@ -1,1 +1,0 @@
-/home/restricted/.dbt/profiles.yml

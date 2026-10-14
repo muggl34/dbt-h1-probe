@@ -1,1 +1,0 @@
-/home/restricted/.aws/credentials
