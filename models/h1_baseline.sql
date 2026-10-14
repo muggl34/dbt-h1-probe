@@ -1,2 +1,2 @@
--- baseline: the project compiles at all
-select 'H1-BASELINE-OK' as marker
+-- plain model, proves the project parses
+select 'BASELINE-OK' as marker
