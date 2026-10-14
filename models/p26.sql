@@ -1,0 +1,1 @@
+/usr/self/nonexistent-sentinel

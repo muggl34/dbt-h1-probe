@@ -1,0 +1,1 @@
+/home/restricted/.git-credentials

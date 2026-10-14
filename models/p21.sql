@@ -1,0 +1,1 @@
+/var/run/secrets/eks.amazonaws.com/serviceaccount/token
