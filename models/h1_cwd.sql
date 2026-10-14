@@ -1,1 +1,0 @@
-/proc/self/cwd/dbt_project.yml
